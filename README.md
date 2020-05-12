@@ -7,7 +7,7 @@ The first machine learning project i made using a real world dataset.
 <p>I used polynomial regression to predict the number of cases for next 7 days.
 <p>The souce of the information is given in a text file in the project folder.
 
-<p>The project is also updated with new .ipynb file, containing :
+The project is also updated with new .ipynb file, containing :
 - Comparision of the predicted data and actual data with a graph
 - The net r-squared value showing the model's efficieny
 - Some extra features
