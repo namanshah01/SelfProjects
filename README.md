@@ -17,5 +17,5 @@ A mini-project i made using basic python concepts :
 - Functions
 - Object Oriented Programming
 - File Handling
-It is a program that program stores user information(name, roll number and address) in a text file.
+<p>It is a program that program stores user information(name, roll number and address) in a text file.
 The user can add, update, search or delete the records present.
