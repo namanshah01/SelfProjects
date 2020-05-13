@@ -12,6 +12,13 @@ The project is also updated with new .ipynb file, containing :
 - The net r-squared value showing the model's efficieny
 - Some extra features
 
+## Red Wine Quality
+Originally i meant to solve this as a KNN problem, but it wasn't giving good accuracy.
+I have now solved it with 'random forest regression.
+I tried to apply feature selection to this, but it didn't end up giving good results.
+<p>The model is giving an overall accuracy of 73.75%.
+I have included a confusion matrix for a more detailed insight into the results.
+
 ## Menu Driven Program
 A mini-project i made using basic python concepts :
 - Functions
