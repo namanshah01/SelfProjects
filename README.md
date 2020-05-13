@@ -1,6 +1,6 @@
-# SelfProjects
+# Self Projects
 
-Self created projects made using the skills and concepts i learn.
+Projects I create based on skills and concepts learnt.
 
 ## Covid-19 Prediction
 The first machine learning project i made using a real world dataset.
