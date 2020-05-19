@@ -6,13 +6,23 @@ Projects I create based on skills and concepts learnt.
 The first machine learning project i made using a real world dataset.
 I used polynomial regression to predict the number of cases for next 7 days.
 I have put the original and the updated .csv file in the folder.
-You can find the source of information [here](https://ourworldindata.org/coronavirus-source-data)
+You can find the source of information [here](https://ourworldindata.org/coronavirus-source-data).
 
 The project is also updated with new .ipynb file, containing :
 - Comparision of the predicted data and actual data with a graph
 - The net r-squared value showing the model's efficieny
 <p>After comparing the results, the model shows a r-squared value of 0.92.
 With this i conclude the project was successful.
+
+## Breast Cancer Prediction
+I solved this using 'support vector machines'. The original dataset consists of 30 features,
+which when used, gives an accuracy of about 98% with linear and rbf kernels.
+But for this project, I used feature selection.
+<p>Features with a p-value less than or equal to 0.05 were only selected.
+Applying selection was a success as, 5 features were able to deliver results that were
+significantly close to results without feature selection
+(Applying feature selection reduces the complexity of the model, and makes it easy to interpret).
+<p>I conclude the project to be successful with an accuracy score of about 95% with the linear kernel.
 
 ## Red Wine Quality
 Originally i meant to solve this as a KNN problem, but it wasn't giving good accuracy.
