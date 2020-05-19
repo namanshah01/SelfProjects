@@ -16,12 +16,13 @@ With this i conclude the project was successful.
 
 ## Breast Cancer Prediction
 I solved this using 'support vector machines'. The original dataset consists of 30 features,
-which when used, gives an accuracy of about 98% with linear and rbf kernels.
+which when used, gives an accuracy of about 98% with linear and rbf kernels
+(check the file Breast_Cancer_Pred(Compare).ipynb for these results).
 But for this project, I used feature selection.
 <p>Features with a p-value less than or equal to 0.05 were only selected.
-Applying selection was a success as, 5 features were able to deliver results that were
-significantly close to results without feature selection
-(Applying feature selection reduces the complexity of the model, and makes it easy to interpret).
+Applying selection was a success as, 5 selected features were able to deliver results that were
+significantly close to results with all 30 features.
+Find the dataset (breast_cancer_data.csv) and the code (Breast_Cancer_Prediction.ipynb), in the folder.
 <p>I conclude the project to be successful with an accuracy score of about 95% with the linear kernel.
 
 ## Red Wine Quality
