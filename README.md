@@ -39,3 +39,9 @@ A mini-project i made using basic python concepts :
 - File Handling
 <p>It is a program that program stores user information(name, roll number and address) in a text file.
 The user can add, update, search or delete the records present.
+  
+## Personal Detail Form
+This is a GUI project i made a while ago, it's a form filling system made with importing tkinter.
+It makes use of many methods like, a dropdown box, check button, radio button and messageboxes.
+It's a dummy program, that is, the information storing system,
+and a way to access it through GUI itself is yet to be added in it.
